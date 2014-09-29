@@ -3,3 +3,5 @@ dynaから更新
 capslock
 
 ディジタルデータ
+
+asf
